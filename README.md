@@ -68,7 +68,7 @@ Salary-Prediction-Model/
 
 
 ## Screenshot
-![one](df.png)
+![one](spa.png)
 
 
 ### 📬 Contact
