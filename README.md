@@ -52,4 +52,28 @@ Salary-Prediction-Model/
 └── README.md
 
 ```
+## 🧠 How It Works
+1. The dataset is loaded and preprocessed.
+2. Important features are selected.
+3. The data is split into training and testing sets.
+4. A machine learning model is trained.
+5. The model predicts salary based on input features.
+
+
+## 📌 Use Case
+1. 🎓 AICTE Virtual Internship Task
+2. 📘 Learning Machine Learning fundamentals
+3. 🧪 Hands-on practice with real-world data
+4. 🤖 Beginner-friendly AI/ML project
+
+
+## Screenshot
+![one](df.png)
+
+
+### 📬 Contact
+Have any questions or want to connect?
+Reach me here: 🔗 [Linktree](https://linktr.ee/hemantsharma22?fbclid=PAQ0xDSwLbT41leHRuA2FlbQIxMQABp6bFdMywhk2GzbSiCfWfDCb8gXvykT8vF0bZEOt6SykMrXjh5t9-hKWpy3Ak_aem_0I6JJKhw2812C9Gu80zg5A) - All My Links
+
+
 
